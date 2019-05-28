@@ -1,0 +1,39 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - TestClasses",
+      "request": "launch",
+      "mainClass": "ocjp.learning.oca.TestClasses",
+      "projectName": "ocjp-study"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - TestClass1",
+      "request": "launch",
+      "mainClass": "ocjp.learning.oca.TestClass1",
+      "projectName": "ocjp-study"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - TestClass",
+      "request": "launch",
+      "mainClass": "ocjp.learning.oca.TestClass",
+      "projectName": "ocjp-study"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Chapter9",
+      "request": "launch",
+      "mainClass": "ocjp.learning.oca.Chapter9",
+      "projectName": "ocjp-study"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Person",
+      "request": "launch",
+      "mainClass": "ocjp.learning.oca.Person",
+      "projectName": "ocjp-study"
+    }
+  ]
+}
