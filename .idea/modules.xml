@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ocjp-study.iml" filepath="$PROJECT_DIR$/ocjp-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ocjp.iml" filepath="$PROJECT_DIR$/ocjp.iml" />
     </modules>
   </component>
 </project>
