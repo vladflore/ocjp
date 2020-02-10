@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - Main",
+      "request": "launch",
+      "mainClass": "ocjp.learning.ocp.chapter8.Main",
+      "projectName": "ocjp-study"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Concurrency",
+      "request": "launch",
+      "mainClass": "ocjp.learning.ocp.chapter7.Concurrency",
+      "projectName": "ocjp-study"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - TestClasses",
       "request": "launch",
       "mainClass": "ocjp.learning.oca.TestClasses",

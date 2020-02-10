@@ -29,13 +29,13 @@ public class LowerBoundedWildcards {
 //    }
 
     // type parameter hides visible type B
-    <B extends A> B m3(List<B> list) {
-        return new B(); // type parameter cannot be instantiated correctly
-    }
-
-    <X> void m4(List<X extends B> list) {
-
-    }
+//    <B extends A> B m3(List<B> list) {
+//        return new B(); // type parameter cannot be instantiated correctly
+//    }
+//
+//    <X> void m4(List<X extends B> list) {
+//
+//    }
 
 }
 

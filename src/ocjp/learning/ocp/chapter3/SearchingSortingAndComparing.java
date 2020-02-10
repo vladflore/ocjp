@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class JavaCollectionsFramework {
+public class SearchingSortingAndComparing {
     public static void main(String[] args) {
         List<Person> people = Arrays.asList(new Person("Vlad", 34),
                 new Person("Ioana", 30),

@@ -1,14 +1,7 @@
 package ocjp.learning.ocp.chapter7;
 
-import java.util.concurrent.ForkJoinTask;
+import java.util.concurrent.RecursiveTask;
 
-public abstract class MyTask extends ForkJoinTask {
+public abstract class MyTask extends RecursiveTask<Integer> {
 
-    /**
-     *
-     */
-    private static final long serialVersionUID = 1L;
-
-    
-    
 }
