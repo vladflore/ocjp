@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - JammedTurkeyCage",
+      "request": "launch",
+      "mainClass": "ocjp.learning.ocp.chapter6.JammedTurkeyCage",
+      "projectName": "ocjp-study"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ExceptionsAndAssertions",
+      "request": "launch",
+      "mainClass": "ocjp.learning.ocp.chapter6.ExceptionsAndAssertions",
+      "projectName": "ocjp-study"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - Main",
       "request": "launch",
       "mainClass": "ocjp.learning.ocp.chapter8.Main",
