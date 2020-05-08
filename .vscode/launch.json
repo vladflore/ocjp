@@ -2,6 +2,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - Main",
+      "request": "launch",
+      "mainClass": "ocjp.learning.ocp.chapter3.Main",
+      "projectName": "ocjp-study"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Main",
+      "request": "launch",
+      "mainClass": "ocjp.learning.ocp.chapter1.Main",
+      "projectName": "ocjp-study"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Questions",
+      "request": "launch",
+      "mainClass": "ocjp.learning.ocp.chapter2.Questions",
+      "projectName": "ocjp-study"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Suppressed",
+      "request": "launch",
+      "mainClass": "ocjp.learning.ocp.chapter6.Suppressed",
+      "projectName": "ocjp-study"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Main",
+      "request": "launch",
+      "mainClass": "ocjp.learning.ocp.chapter5.Main",
+      "projectName": "ocjp-study"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - JammedTurkeyCage",
       "request": "launch",
       "mainClass": "ocjp.learning.ocp.chapter6.JammedTurkeyCage",
