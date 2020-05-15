@@ -2,6 +2,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - PrintCounter",
+      "request": "launch",
+      "mainClass": "ocjp.learning.ocp.chapter7.PrintCounter",
+      "projectName": "ocjp-study"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - FindMin",
+      "request": "launch",
+      "mainClass": "ocjp.learning.ocp.chapter7.FindMin",
+      "projectName": "ocjp-study"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - FunctionalProgramming",
+      "request": "launch",
+      "mainClass": "ocjp.learning.ocp.chapter4.FunctionalProgramming",
+      "projectName": "ocjp-study"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - Main",
       "request": "launch",
       "mainClass": "ocjp.learning.ocp.chapter3.Main",

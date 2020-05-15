@@ -17,7 +17,6 @@ public class FindMin extends MyTask {
 		this.b = b;
 	}
 
-	@Override
 	protected Integer compute() {
 		if ((b - a) < 2)
 			return Math.min(elements[a], elements[b]);
@@ -32,7 +31,7 @@ public class FindMin extends MyTask {
 
 	public static void main(String[] args) throws InterruptedException,
 			ExecutionException {
-		Integer[] elements = new Integer[] { 8, -3, 2, -54 };
+		Integer[] elements = new Integer[] { 8, -3, 2, -54, -100, 70, 15 };
 		MyTask task = new FindMin(elements, 0, elements.length - 1);
 		ForkJoinPool pool = new ForkJoinPool(1);
 		Integer sum = pool.invoke(task);
